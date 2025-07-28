@@ -1,0 +1,1 @@
+A modern, interactive portfolio application built using Python's Tkinter GUI framework. This project mimics the structure of a personal website but runs as a desktop application. It showcases a developer’s profile, featured projects, and clickable links to GitHub, LinkedIn, YouTube, and contact information.
